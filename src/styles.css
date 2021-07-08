@@ -1,0 +1,21 @@
+.post {
+  border: 2px solid silver;
+  border-radius: 5px;
+  margin: 10px 0px;
+  padding: 10px;
+}
+
+.post-block {
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.view-link {
+  text-decoration: none;
+  color: green;
+}
+
+.filter-block {
+  display: flex;
+  padding-bottom: 15px;
+}
